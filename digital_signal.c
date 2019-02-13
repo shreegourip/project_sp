@@ -30,6 +30,6 @@ int main()
         a++;
         b++;
     }
-    printf("\nRaising edges=%d\nfalling edges=%d\nlevel=%d",r_count,f_count,l_count);
+    printf("\nTotal Raising edges=%d\nTotal falling edges=%d\nTotal Level=%d",r_count,f_count,l_count);
     return 0;
 }
