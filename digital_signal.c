@@ -6,7 +6,7 @@ int main()
     int array[50]={0,0,1,0,1,1,1,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,1,1,0,
                    1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,1,1,1,0,1};
 
-    int count=0,a=0,b=1,r_count=0,f_count=0,l_count;
+    int count=0,a=0,b=1,r_count=0,f_count=0,l_count=0;
     printf("\n|| Sample number:%d || Voltage level:%d || Level",count,array[a]);
     count=1;
     while(count<50)
